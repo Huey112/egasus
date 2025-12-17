@@ -1,0 +1,48 @@
+# Egasus 🐎
+
+Egasus, Python ve ADB (Android Debug Bridge) altyapısını kullanarak geliştirilmiş, terminal tabanlı gelişmiş bir Android cihaz yönetim ve otomasyon aracıdır. Karmaşık ADB komutlarıyla uğraşmak yerine, kullanıcı dostu menüler üzerinden cihazınızı yönetmenizi sağlar.
+
+## 🚀 Özellikler
+
+Egasus, cihaz yönetimi için hepsi bir arada (All-in-One) çözümler sunar:
+
+* **📱 Cihaz Bilgileri:** Model, Android sürümü, pil durumu, RAM, depolama ve çözünürlük bilgilerini anlık görüntüleme.
+* **🎥 Ekran Araçları:**
+    * Ekran kaydı alma (Süre sınırlı/sınırsız).
+    * Anlık ekran görüntüsü (Screenshot) alma.
+    * Ekran yansıtma (Scrcpy entegrasyonu).
+* **📂 Dosya Yönetimi:**
+    * Bilgisayardan telefona dosya gönderme (Push).
+    * Telefondan bilgisayara dosya çekme (Pull).
+    * Terminal üzerinden dosya gezgini.
+* **📦 APK Yönetimi:**
+    * Yüklü uygulamaları listeleme.
+    * Tekli veya toplu APK yükleme/kaldırma.
+    * Yüklü uygulamaları APK olarak yedekleme (Extract).
+* **📡 Bağlantı:** Wi-Fi üzerinden kablosuz ADB bağlantısı kurma.
+
+## 🛠️ Kurulum
+
+Proje dosyalarını bilgisayarınıza indirin ve gerekli kütüphaneleri kurun.
+
+1.  **Repoyu Klonlayın:**
+    ```bash
+    git clone https://github.com/egnake/egasus.git
+    cd egasus
+    ```
+
+2.  **Gereksinimleri Yükleyin:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **Gereklilikler:**
+    * Bilgisayarınızda **ADB** (Android Debug Bridge) kurulu ve PATH'e ekli olmalıdır.
+    * Ekran yansıtma özelliği için **scrcpy** kurulu olmalıdır.
+
+## ▶️ Kullanım
+
+Cihazınızı USB ile bağlayın (veya aynı ağdaysanız Wi-Fi menüsünü kullanın) ve aracı başlatın:
+
+```bash
+python egasus.py
