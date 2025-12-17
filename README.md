@@ -1,4 +1,6 @@
 # Egasus 🐎
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)]()
 
 Egasus, Python ve ADB (Android Debug Bridge) altyapısını kullanarak geliştirilmiş, terminal tabanlı gelişmiş bir Android cihaz yönetim ve otomasyon aracıdır. Karmaşık ADB komutlarıyla uğraşmak yerine, kullanıcı dostu menüler üzerinden cihazınızı yönetmenizi sağlar.
 
